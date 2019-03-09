@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FPlayer</string>
     <string name="logo_name">FPlayer_Logo</string>
+    <string name="title_activity_file_browser">FileBrowserActivity</string>
 </resources>
