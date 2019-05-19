@@ -53,7 +53,7 @@ class FPlayerSplashActivity : AppCompatActivity() {
 
         // Example of a call to a native method
         //sample_text.text = stringFromJNI()
-        Log.e("FPlayerSplash", "onCreate")
+        Log.e("FPlayerSplash", stringFromJNI())
     }
 
     override fun onResume() {
